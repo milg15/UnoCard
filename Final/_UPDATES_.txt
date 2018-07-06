@@ -1,0 +1,10 @@
+1. Arregle el error con el buffer que ocurria cada vez que se abria un MessageBox.  
+2. El Juegador puede decir UNO, saltar su turno y seleccionar el color al 
+colocar una carta especial cambia color. 
+----
+No se me ocurrio una funcionalidad adicional. Aun tiene algunos errores en ejecución
+y creo que alguno que ni he detectado.
+No mi mejor trabajo, no muy orgullosa de este proyecto para ser sincera.
+De aquí a mejorar. Y min 17 en el final (y)
+Me gusto mucho su clase espero poder volver a ver clases con usted.
+-Maria
